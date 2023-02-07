@@ -1,0 +1,20 @@
+{
+  "name": "top-binarytree-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossycode/TOP-BinaryTree-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ossycode/TOP-BinaryTree-Project/issues"
+  },
+  "homepage": "https://github.com/ossycode/TOP-BinaryTree-Project#readme"
+}
